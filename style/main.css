@@ -1,0 +1,27 @@
+a {
+    width: 150px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 20px;
+    color: white;
+    
+}
+
+.url {
+    display: flex;
+    justify-content: center;
+    margin-top: 400px;
+}
+
+button {
+    width: 250px;
+    height: 100px;
+    border-radius: 50%;
+    background: violet;
+    margin-left: 50px;
+}
+
+button:active {
+    background: black;
+}
